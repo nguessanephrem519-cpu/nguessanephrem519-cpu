@@ -1,33 +1,47 @@
 <!--
   GITHUB PROFILE README
   Style : Anime x Gaming x Developer
-  Remplace TON_PSEUDO par ton véritable pseudo GitHub.
+  GitHub : nguessanephrem519-cpu
 -->
 
 <div align="center">
 
-  <!-- BANNIERE ANIME / GAMING -->
+  <!-- ANIME GAMING BANNER -->
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,35:30105E,70:5427A8,100:00D9FF&height=240&section=header&text=EPHREM.exe&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=PLAYER%2001%20%7C%20DEVELOPER%20MODE&descSize=18&descAlignY=56"
     width="100%"
     alt="Bannière Anime Gaming"
   />
 
-  <!-- TEXTE ANIME -->
+  <!-- ANIMATED INTRO -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=850&color=C4B5FD&center=true&vCenter=true&width=800&lines=Bienvenue+dans+mon+univers+%F0%9F%8E%AE;Web+%26+Mobile+Developer+%F0%9F%92%BB;Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Artificial+Intelligence+Enthusiast+%F0%9F%A4%96;New+level+unlocked...+%E2%9C%A8"
-    alt="Texte animé"
+    alt="Texte animé de présentation"
   />
 
   <br/>
 
+  <a href="https://ephrem-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐_MON_PORTFOLIO-Visiter_mon_site-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Mon portfolio"/>
+  </a>
+
+  <a href="https://github.com/nguessanephrem519-cpu">
+    <img src="https://img.shields.io/badge/GitHub-Mon_profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ephrem-n-guessan-5b167937a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <br/><br/>
+
   <img src="https://img.shields.io/badge/CLASS-Full--Stack%20Explorer-6D28D9?style=for-the-badge&logo=codeforces&logoColor=white" alt="Classe"/>
-  <img src="https://img.shields.io/badge/MODE-Creative%20Developer-0891B2?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Mode"/>
+  <img src="https://img.shields.io/badge/MODE-Creative%20Developer-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Mode"/>
   <img src="https://img.shields.io/badge/STATUS-Always%20Learning-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Statut"/>
 
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/Location-San--P%C3%A9dro%2C%20C%C3%B4te%20d%27Ivoire-0D1117?style=flat-square&logo=googlemaps&logoColor=67E8F9" alt="Localisation"/>
+  <img src="https://img.shields.io/badge/📍_LOCATION-San--Pédro%2C_Côte_d'Ivoire-0D1117?style=flat-square&labelColor=0D1117" alt="Localisation"/>
 
 </div>
 
@@ -39,32 +53,54 @@
 ╔══════════════════════════════════════════╗
 ║              PLAYER PROFILE              ║
 ╠══════════════════════════════════════════╣
-║  Player    : Ephrem                      ║
-║  Location  : San-Pédro, Côte d'Ivoire    ║
-║  Class     : Developer                   ║
-║  Main Quest: Build & Innovate            ║
-║  Side Quest: Cybersecurity & AI          ║
-║  Mindset   : Learn • Create • Improve    ║
+║  Player    : Ephrem                       ║
+║  Location  : San-Pédro, Côte d'Ivoire     ║
+║  Class     : Developer                    ║
+║  Main Quest: Build & Innovate             ║
+║  Side Quest: Cybersecurity & AI           ║
+║  Mindset   : Learn • Create • Improve     ║
 ╚══════════════════════════════════════════╝
 </pre>
-
 
 Salut ! 👋
 
 Je suis étudiant en sciences informatiques, basé à *San-Pédro, en Côte d'Ivoire*, et passionné par le développement logiciel et les nouvelles technologies.
 
-J'aime concevoir des applications, comprendre l'architecture des systèmes, développer des API et explorer la cybersécurité ainsi que l'intelligence artificielle.
+J'aime concevoir des applications, comprendre l'architecture des systèmes, développer des API et explorer les possibilités offertes par la cybersécurité et l'intelligence artificielle.
 
 Mon univers mélange *programmation, culture anime, gaming et innovation technologique*. Chaque projet est une nouvelle quête pour apprendre, expérimenter et améliorer mes compétences.
+
+🎯 Mon objectif : concevoir des solutions logicielles utiles, modernes, performantes et sécurisées.
 
 ### ⚡ Mes quêtes principales
 
 - 💻 Développer des applications web et mobiles modernes.
-- 🛡️ Comprendre et renforcer la sécurité des systèmes et applications.
+- 🛡️ Apprendre à sécuriser les applications, les systèmes et les réseaux.
 - 🤖 Explorer l'intelligence artificielle et l'automatisation.
-- ⚙️ Concevoir des architectures logicielles maintenables.
-- 🗄️ Maîtriser les bases de données et la conception d'API.
-- 🎮 Transformer mes idées en projets concrets, un niveau après l'autre.
+- ⚙️ Concevoir des architectures logicielles fiables et maintenables.
+- 🗄️ Approfondir les bases de données et la conception d'API.
+- 🚀 Transformer des idées en projets concrets.
+
+---
+
+## 🌐 MON PORTFOLIO — Discover my work
+
+<div align="center">
+
+  <a href="https://ephrem-dev-portfolio.vercel.app/">
+    <img
+      src="https://img.shields.io/badge/EXPLORE-My%20Developer%20Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Découvrir mon portfolio"
+    />
+  </a>
+
+  <br/><br/>
+
+  *Retrouve mon univers de développeur, mes compétences et mes réalisations.*
+
+  [➡️ Visiter mon portfolio](https://ephrem-dev-portfolio.vercel.app/)
+
+</div>
 
 ---
 
@@ -117,7 +153,7 @@ Mon univers mélange *programmation, culture anime, gaming et innovation technol
 Créer des interfaces modernes et des applications utiles.
 
 - Frontend et backend
-- Applications mobiles
+- Applications web et mobiles
 - API REST
 - Expérience utilisateur
 
@@ -165,18 +201,56 @@ Construire des logiciels structurés, fiables et évolutifs.
 
 ---
 
-
-
-### 🗺️ Mes missions actuelles
+## 🗺️ QUEST LOG — Mes missions actuelles
 
 - [ ] Construire des applications web et mobiles complètes.
 - [ ] Approfondir NestJS, les API et la conception backend.
 - [ ] Améliorer mes pratiques de sécurité applicative.
 - [ ] Explorer les possibilités de l'IA dans les applications.
+- [ ] Renforcer mes connaissances en bases de données.
 - [ ] Développer des projets documentés et maintenables.
 
 ---
 
+## 📊 PLAYER STATS — Statistiques GitHub
+
+<div align="center">
+
+  <!-- STATISTIQUES GENERALES -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nguessanephrem519-cpu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=E5E7EB"
+    height="180"
+    alt="Statistiques générales GitHub"
+  />
+
+  <!-- LANGAGES LES PLUS UTILISES -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguessanephrem519-cpu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB"
+    height="180"
+    alt="Langages les plus utilisés"
+  />
+
+  <br/><br/>
+
+  <!-- SERIE DE CONTRIBUTIONS -->
+  <img
+    src="https://streak-stats.demolab.com?user=nguessanephrem519-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=C4B5FD&fire=67E8F9&currStreakLabel=C4B5FD"
+    width="90%"
+    alt="Série de contributions GitHub"
+  />
+
+  <br/><br/>
+
+  <!-- GRAPHIQUE D'ACTIVITE -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nguessanephrem519-cpu&bg_color=0D1117&color=C4B5FD&line=67E8F9&point=FFFFFF&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20GitHub"
+    width="100%"
+    alt="Graphique d'activité GitHub"
+  />
+
+</div>
+
+---
 
 ## 🏆 ACHIEVEMENTS — Mes objectifs
 
@@ -185,6 +259,7 @@ Construire des logiciels structurés, fiables et évolutifs.
 - 🧠 Approfondir le génie logiciel et la cybersécurité.
 - 🤖 Intégrer intelligemment l'IA dans des solutions concrètes.
 - 📚 Documenter mes projets et partager mes apprentissages.
+- 🌍 Créer des solutions numériques qui répondent à des besoins réels.
 
 ---
 
@@ -194,7 +269,7 @@ Construire des logiciels structurés, fiables et évolutifs.
 
   <img src="https://img.shields.io/badge/ANIME-Fan-7C3AED?style=for-the-badge&logo=crunchyroll&logoColor=white" alt="Anime"/>
   <img src="https://img.shields.io/badge/GAMING-Player-0891B2?style=for-the-badge&logo=steam&logoColor=white" alt="Gaming"/>
-  <img src="https://img.shields.io/badge/TECH-Innovator-6D28D9?style=for-the-badge&logo=probot&logoColor=white" alt="Technologie"/>
+  <img src="https://img.shields.io/badge/TECH-Innovator-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="Technologie"/>
 
   <br/><br/>
 
@@ -208,25 +283,31 @@ Construire des logiciels structurés, fiables et évolutifs.
 
 <div align="center">
 
+  <a href="https://ephrem-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+
   <a href="https://github.com/nguessanephrem519-cpu">
-    <img src="https://img.shields.io/badge/GitHub-Mon%20profil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow%20my%20journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
   <a href="https://www.linkedin.com/in/ephrem-n-guessan-5b167937a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Mon%20profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:nguessanephrem519@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 
   <br/><br/>
 
   📍 *San-Pédro, Côte d'Ivoire*
 
-  📧 **nguessanephrem519@gmail.com*
+  📧 *[nguessanephrem519@gmail.com](mailto:nguessanephrem519@gmail.com)*
 
-  💼 [Mon profil LinkedIn](https://www.linkedin.com/in/ephrem-n-guessan-5b167937a/)
+  🌐 **[ephrem-dev-portfolio.vercel.app](https://ephrem-dev-portfolio.vercel.app/)**
+
+  💼 **[Mon profil LinkedIn](https://www.linkedin.com/in/ephrem-n-guessan-5b167937a/)**
 
 </div>
 
@@ -245,7 +326,7 @@ Construire des logiciels structurés, fiables et évolutifs.
   <br/><br/>
 
   <img
-    src="https://komarev.com/ghpvc/?username=TON_PSEUDO&style=flat-square&color=7C3AED&label=Visites+du+profil"
+    src="https://komarev.com/ghpvc/?username=nguessanephrem519-cpu&style=flat-square&color=7C3AED&label=Visites+du+profil"
     alt="Compteur de visites"
   />
 
