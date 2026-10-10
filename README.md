@@ -183,14 +183,14 @@ Construire des logiciels structurés, fiables et évolutifs.
 
   <!-- STATISTIQUES GENERALES -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=E5E7EB"
+    src="https://github-readme-stats.vercel.app/api?username=nguessanephrem519-cpu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=E5E7EB"
     height="180"
     alt="Statistiques générales GitHub"
   />
 
   <!-- LANGAGES LES PLUS UTILISES -->
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguessanephrem519-cpu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB"
     height="180"
     alt="Langages les plus utilisés"
   />
