@@ -165,14 +165,6 @@ Construire des logiciels structurés, fiables et évolutifs.
 
 ---
 
-## 🚀 QUEST LOG — Mes projets
-
-Chaque dépôt est une quête : un problème à résoudre, des technologies à apprendre et une solution à améliorer.
-
-<!--
-  Remplace NOM_PROJET_1 et NOM_PROJET_2 par les noms
-  exacts de deux dépôts existants sur ton compte GitHub.
--->
 
 
 ### 🗺️ Mes missions actuelles
