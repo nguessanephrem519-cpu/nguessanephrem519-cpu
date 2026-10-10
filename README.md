@@ -174,23 +174,6 @@ Chaque dépôt est une quête : un problème à résoudre, des technologies à a
   exacts de deux dépôts existants sur ton compte GitHub.
 -->
 
-<div align="center">
-
-  <a href="https://github.com/TON_PSEUDO/NOM_PROJET_1">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_PROJET_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9"
-      alt="Projet principal"
-    />
-  </a>
-
-  <a href="https://github.com/TON_PSEUDO/NOM_PROJET_2">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=TON_PSEUDO&repo=NOM_PROJET_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9"
-      alt="Deuxième projet"
-    />
-  </a>
-
-</div>
 
 ### 🗺️ Mes missions actuelles
 
