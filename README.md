@@ -35,16 +35,18 @@
 
 ## 🎮 PLAYER PROFILE — Qui suis-je ?
 
+<pre>
 ╔══════════════════════════════════════════╗
 ║              PLAYER PROFILE              ║
 ╠══════════════════════════════════════════╣
-║  Player    : Ephrem                       ║
-║  Location  : San-Pédro, Côte d'Ivoire     ║
-║  Class     : Developer                    ║
-║  Main Quest: Build & Innovate             ║
-║  Side Quest: Cybersecurity & AI           ║
-║  Mindset   : Learn • Create • Improve     ║
+║  Player    : Ephrem                      ║
+║  Location  : San-Pédro, Côte d'Ivoire    ║
+║  Class     : Developer                   ║
+║  Main Quest: Build & Innovate            ║
+║  Side Quest: Cybersecurity & AI          ║
+║  Mindset   : Learn • Create • Improve    ║
 ╚══════════════════════════════════════════╝
+</pre>
 
 
 Salut ! 👋
