@@ -212,44 +212,6 @@ Construire des logiciels structurés, fiables et évolutifs.
 
 ---
 
-## 📊 PLAYER STATS — Statistiques GitHub
-
-<div align="center">
-
-  <!-- STATISTIQUES GENERALES -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nguessanephrem519-cpu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=E5E7EB"
-    height="180"
-    alt="Statistiques générales GitHub"
-  />
-
-  <!-- LANGAGES LES PLUS UTILISES -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguessanephrem519-cpu&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB"
-    height="180"
-    alt="Langages les plus utilisés"
-  />
-
-  <br/><br/>
-
-  <!-- SERIE DE CONTRIBUTIONS -->
-  <img
-    src="https://streak-stats.demolab.com?user=nguessanephrem519-cpu&theme=tokyonight&hide_border=true&background=0D1117&ring=C4B5FD&fire=67E8F9&currStreakLabel=C4B5FD"
-    width="90%"
-    alt="Série de contributions GitHub"
-  />
-
-  <br/><br/>
-
-  <!-- GRAPHIQUE D'ACTIVITE -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nguessanephrem519-cpu&bg_color=0D1117&color=C4B5FD&line=67E8F9&point=FFFFFF&area=true&hide_border=true&custom_title=Mon%20activit%C3%A9%20GitHub"
-    width="100%"
-    alt="Graphique d'activité GitHub"
-  />
-
-</div>
-
 ---
 
 ## 🏆 ACHIEVEMENTS — Mes objectifs
